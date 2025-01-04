@@ -1,0 +1,21 @@
+
+
+header{
+    padding: 16px;
+    background-color: #d3d3d3;
+}
+header nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header nav ul{
+    display: flex;
+    list-style: none;
+    gap: 16px;
+    max-height: max-content;
+}
+header nav ul li{
+    max-height: max-content;
+}
